@@ -2,31 +2,13 @@
 
 30 Days App From Andoid Basics With Compose 
 
+ 
 
-## Tech Stack
+- LazyColumn
 
-- MVVM
+- Spring Animation
 
-- Kotlin Flow
-
-- Room
-
-- Kotlin Extensions
-
-- Hilt
-
-- Content Provider
-
-
-# Featues
-#### 1.  Search
-#### 2.  Add Entry
-#### 3.  Update Entry
-#### 4.  Delete Entry
-#### 5.  Add Mood
-#### 6.  Add Media
-#### 7.  Search
-
+ 
 ## Screenshots
 
 ![App Screenshot](https://user-images.githubusercontent.com/111678314/204151303-27057f92-ea9d-415d-8752-91ad5aecb033.jpg)
